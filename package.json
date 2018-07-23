@@ -1,0 +1,19 @@
+{
+  "name": "pipi-cli",
+  "version": "0.0.1",
+  "description": "Pipi - Twitter CLI client",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasvillanueva/pipi-cli.git"
+  },
+  "author": "Nas Villanueva <nas@inforteria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nasvillanueva/pipi-cli/issues"
+  },
+  "homepage": "https://github.com/nasvillanueva/pipi-cli#readme",
+  "bin": {
+    "pipi": "bin/pipi.js"
+  }
+}
